@@ -1,0 +1,2 @@
+ex1 -
+Sem iniciar o phpmyadmin do site o programa em c# não funiciona
